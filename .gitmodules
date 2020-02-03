@@ -1,0 +1,11 @@
+[submodule "gtest-parallel"]
+	path = gtest-parallel
+	url = git@github.com:google/gtest-parallel.git
+[submodule "gcovr"]
+	path = gcovr
+	url = git@github.com:gcovr/gcovr.git
+	tag = 4.2
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest.git
+	tag = release-1.10.0
